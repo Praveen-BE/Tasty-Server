@@ -2,13 +2,16 @@
 
 ## Disclaimer:- I use [Swiggy](https://www.swiggy.com/) api data for Education purpose only.
 
-## Swiggy people don't report me🥺
-
 ## Credits:- [https://www.swiggy.com/](https://www.swiggy.com/)
 
 Why I and You Need this Tasty-API Sever?
 
 Swiggy rapidly changes their API for their security purposes. Also it has [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) issues.
+
+<details>
+<summary>
+👇 Read more ?
+</summary>
 
 First they hide their data into file bangalore
 <img style="vertical-align: sub" src="./images/datahideinFile1.png" alt="swiggyapidatascrappings" />
@@ -30,7 +33,9 @@ This Tasty-API Server (node js server) provide json for My [Namaste React Course
 
 Here we go again like GTA San Andreas 😂.
 
-## clone this Repository
+</details>
+
+## 🖨️ clone this Repository
 
 Open new emty folder in your vs code run this command on terminal
 
@@ -69,6 +74,30 @@ Go to the index.js
 - You can change your backend port as you wish
 - if your frontend url or port in diffent change in index.js for bypass cors
 
-## NoSql database
+## 💽 NoSql database
 
-- if you are familier with nosql database see folder "/jsonFiles" i put all json files here.
+- if you are familier with nosql database see folder "/jsonFiles" i put all json files here. use what can you do.
+
+## restaurantList API
+
+```bash
+  http://localhost:3333/restuarantList/1
+```
+
+- the last number of this request is taken as page. Try your javascript knowledge, think how to add another requested data your redux state store or context api or useState.
+
+this api call will give you restaurant list for app we can get upto 25 page in this api. approximatly 25 x 8 all are unique restaurant.
+
+## restaurantMenu API
+
+```bash
+  http://localhost:3333/restuarantMenu/111111
+```
+
+- in this api i did not take the id of the restaurant also i only send "Chinese Wok" restaurant menu.
+
+Because the json file is too large likely 13MB, i compressed and put in /minifiedFile it size like 6MB and put that route into .prettierignore to avoid automatic formatting.
+
+## conclusion
+
+Ok I tested it with my three month old swiggy app it works perfectly fine.
