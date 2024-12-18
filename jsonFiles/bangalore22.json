@@ -1,0 +1,2646 @@
+{
+  "data": {
+    "tid": "55e4aed7-8570-467b-a964-ff9fca36a3a8",
+    "sid": "htx730c4-ba14-4d70-8ebc-db461c9ef971",
+    "deviceId": "c99bbd2e-6183-01d6-8193-f0b01942c87a",
+    "requestId": "943484df-3a04-4304-af76-3dcf154987b2",
+    "apiTime": "2024-12-16T17:19:53.885531757Z",
+    "success": {
+      "statusMessage": "done successfully",
+      "pageOffset": {
+        "nextOffset": "CJY7ELQ4KIDYq62TwpjBOTDSEDgE",
+        "widgetOffset": {
+          "NewListingView_category_bar_chicletranking_TwoRows": "",
+          "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+          "Restaurant_Group_WebView_PB_Theme": "",
+          "Restaurant_Group_WebView_SEO_PB_Theme": "",
+          "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "341",
+          "inlineFacetFilter": "",
+          "restaurantCountWidget": ""
+        }
+      },
+      "cards": [
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+              "layout": {
+                "columns": 2
+              },
+              "id": "restaurant_grid_listing",
+              "gridElements": {
+                "infoWithStyle": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                  "restaurants": [
+                    {
+                      "info": {
+                        "id": "33008",
+                        "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/4/48180377-160d-421b-9c38-43d2542d0af8_33008.jpg",
+                        "locality": "2nd Stage",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Beverages", "Ice Cream", "Desserts"],
+                        "avgRating": 4.1,
+                        "veg": true,
+                        "parentId": "5655",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "12K+",
+                        "sla": {
+                          "deliveryTime": 25,
+                          "lastMileTravel": 4.8,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "4.8 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 03:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "20% OFF",
+                          "subHeader": "ABOVE ₹1199",
+                          "discountTag": "FLAT DEAL"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "5.0",
+                            "ratingCount": "3"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/frozen-bottle-milkshakes-desserts-and-ice-cream-2nd-stage-banashankari-rest33008",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "502855",
+                        "name": "Biryani Trip - Destination Hyderabad",
+                        "cloudinaryImageId": "bbsdgaytmeoldkugx9f3",
+                        "locality": "Hare Krishna Road",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹180 for two",
+                        "cuisines": ["Fast Food", "Snacks"],
+                        "avgRating": 4.2,
+                        "parentId": "441462",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "68",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "options available",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹299"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/biryani-trip-destination-hyderabad-hare-krishna-road-seshadripuram-rest502855",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "469048",
+                        "name": "DonBuri",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/9e73364b-8878-41cf-92e9-84641a376188_469048.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": [
+                          "Chinese",
+                          "Oriental",
+                          "Asian",
+                          "Fast Food",
+                          "Desserts"
+                        ],
+                        "avgRating": 3.7,
+                        "parentId": "281645",
+                        "avgRatingString": "3.7",
+                        "totalRatingsString": "82",
+                        "sla": {
+                          "deliveryTime": 37,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "EVERY ITEM",
+                          "subHeader": "@ ₹129"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/donburi-aga-abdullah-street-richmond-town-rest469048",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "47507",
+                        "name": "Bombay Kulfi",
+                        "cloudinaryImageId": "7ae268e777acd1b70bd03b128820fb45",
+                        "locality": "Sudhamnagar",
+                        "areaName": "AUSTIN TOWN",
+                        "costForTwo": "₹100 for two",
+                        "cuisines": ["Desserts", "Ice Cream"],
+                        "avgRating": 4.5,
+                        "veg": true,
+                        "parentId": "4900",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "2.2K+",
+                        "sla": {
+                          "deliveryTime": 23,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:30:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "20% OFF",
+                          "subHeader": "UPTO ₹50"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/bombay-kulfi-sudhamnagar-austin-town-rest47507",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "707957",
+                        "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                        "cloudinaryImageId": "d679c532ca07a6f3fd6d89d603861412",
+                        "locality": "Hampi nagar",
+                        "areaName": "vijayanagar",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": [
+                          "Ice Cream Cakes",
+                          "Desserts",
+                          "Ice Cream",
+                          "Bakery"
+                        ],
+                        "avgRating": 4.6,
+                        "veg": true,
+                        "parentId": "21932",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "8",
+                        "sla": {
+                          "deliveryTime": 23,
+                          "lastMileTravel": 4.9,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "4.9 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "₹75 OFF",
+                          "subHeader": "ABOVE ₹499",
+                          "discountTag": "FLAT DEAL"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/gourmet-ice-cream-cakes-by-baskin-robbins-hampi-nagar-vijayanagar-rest707957",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "901998",
+                        "name": "Iceberg Organic Icecreams",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/00bcd9a3-b22e-442d-a7eb-c633d0518fa5_901998.jpg",
+                        "locality": "Marenahalli Rd",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Ice Cream"],
+                        "avgRating": 4.4,
+                        "veg": true,
+                        "parentId": "10825",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "7",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 5.6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.6 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹239"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/iceberg-organic-icecreams-marenahalli-rd-jayanagar-rest901998",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "792357",
+                        "name": "Wendy's Flavor Fresh Burgers",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/64958dd3-3535-48dc-b9a1-2e49c38e6a01_792357.jpg",
+                        "locality": "Residency Road",
+                        "areaName": "Shantinagar",
+                        "costForTwo": "₹500 for two",
+                        "cuisines": [
+                          "Burgers",
+                          "American",
+                          "Fast Food",
+                          "Snacks",
+                          "Beverages"
+                        ],
+                        "avgRating": 4.5,
+                        "parentId": "470493",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "26",
+                        "sla": {
+                          "deliveryTime": 40,
+                          "lastMileTravel": 3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "40-45 mins",
+                          "lastMileTravelString": "3.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "30% OFF",
+                          "subHeader": "UPTO ₹75"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/wendys-flavor-fresh-burgers-residency-road-shantinagar-rest792357",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "894026",
+                        "name": "Wow! Kulfi",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/26/c2696a59-217f-4c3a-b3d9-1dcef4872ab3_894026.jpg",
+                        "locality": "Mahatma Gandhi Rd",
+                        "areaName": "Church street",
+                        "costForTwo": "₹120 for two",
+                        "cuisines": ["Ice Cream", "Desserts"],
+                        "avgRating": 3.4,
+                        "veg": true,
+                        "parentId": "501088",
+                        "avgRatingString": "3.4",
+                        "totalRatingsString": "3",
+                        "sla": {
+                          "deliveryTime": 38,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 02:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹59"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "isNewlyOnboarded": true,
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/wow-kulfi-mahatma-gandhi-rd-church-street-rest894026",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "824410",
+                        "name": "Amore Gelato - Italian Ice Cream",
+                        "cloudinaryImageId": "3467b56a3428dcfa585df800fa719412",
+                        "locality": "Jayanagar",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": ["Ice Cream"],
+                        "avgRating": 4.3,
+                        "parentId": "430495",
+                        "avgRatingString": "4.3",
+                        "totalRatingsString": "34",
+                        "sla": {
+                          "deliveryTime": 27,
+                          "lastMileTravel": 6.3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "6.3 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "10% OFF",
+                          "subHeader": "UPTO ₹100"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/amore-gelato-italian-ice-cream-jayanagar-rest824410",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "155588",
+                        "name": "Slurpy Shakes",
+                        "cloudinaryImageId": "aclwvylwtt9h8ln8rhd0",
+                        "locality": "8th Block",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": ["Beverages", "Ice Cream", "Desserts"],
+                        "avgRating": 4.4,
+                        "veg": true,
+                        "parentId": "5713",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "330",
+                        "sla": {
+                          "deliveryTime": 32,
+                          "lastMileTravel": 5.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "5.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/slurpy-shakes-8th-block-jayanagar-rest155588",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "173199",
+                        "name": "Burger It Up",
+                        "cloudinaryImageId": "lsbtt2umiwvsg2qtlf1d",
+                        "locality": "8th Block",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": [
+                          "Burgers",
+                          "Beverages",
+                          "Desserts",
+                          "American",
+                          "Cafe"
+                        ],
+                        "avgRating": 4.1,
+                        "parentId": "7864",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "1.8K+",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "select": true,
+                        "isOpen": true,
+                        "type": "C",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹119"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/burger-it-up-8th-block-jayanagar-rest173199",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "197935",
+                        "name": "Green Cravings",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/90798ae7-272e-48e3-8371-e7603e5d95b7_197935.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹350 for two",
+                        "cuisines": ["Healthy Food", "Grill"],
+                        "avgRating": 4.1,
+                        "parentId": "8660",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "1.8K+",
+                        "sla": {
+                          "deliveryTime": 39,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "brand",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "brand"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹129"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/green-cravings-aga-abdullah-street-richmond-town-rest197935",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "304580",
+                        "name": "ITC Fabelle Chocolates",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/26/9233d2f5-da02-4477-9ed6-6c2b01afbc43_304580.jpg",
+                        "locality": "Richmond Town",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹600 for two",
+                        "cuisines": ["Bakery", "Desserts"],
+                        "avgRating": 4.4,
+                        "parentId": "11024",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "308",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 4.6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "4.6 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹999"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.5",
+                            "ratingCount": "345"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/itc-fabelle-chocolates-richmond-town-rest304580",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "758566",
+                        "name": "Cake",
+                        "cloudinaryImageId": "f5207d990ef9245d848d7e258988ca58",
+                        "locality": "S G Palya",
+                        "areaName": "Bhawani nagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Bakery"],
+                        "avgRating": 3.3,
+                        "veg": true,
+                        "parentId": "3862",
+                        "avgRatingString": "3.3",
+                        "totalRatingsString": "182",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 6.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/cake-s-g-palya-bhawani-nagar-rest758566",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "425699",
+                        "name": "Cold Stone Creamery",
+                        "cloudinaryImageId": "a97a58c2e292e5ed2a374f390312e2f5",
+                        "locality": "Global Mall",
+                        "areaName": "Binnipete",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": ["Ice Cream", "Desserts", "Beverages"],
+                        "avgRating": 4.2,
+                        "parentId": "3497",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "134",
+                        "sla": {
+                          "deliveryTime": 52,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "50-55 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "40% OFF",
+                          "subHeader": "UPTO ₹80"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.3",
+                            "ratingCount": "165"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/cold-stone-creamery-global-mall-binnipete-rest425699",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    }
+                  ],
+                  "theme": "SeoRestaurantListingGridWidget"
+                }
+              }
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+              "layout": {
+                "columns": 2
+              },
+              "id": "restaurant_grid_listing_v2",
+              "gridElements": {
+                "infoWithStyle": {
+                  "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FoodRestaurantGridListingInfo",
+                  "restaurants": [
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "33008",
+                        "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/4/48180377-160d-421b-9c38-43d2542d0af8_33008.jpg",
+                        "locality": "2nd Stage",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Beverages", "Ice Cream", "Desserts"],
+                        "avgRating": 4.1,
+                        "veg": true,
+                        "parentId": "5655",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "12K+",
+                        "sla": {
+                          "deliveryTime": 25,
+                          "lastMileTravel": 4.8,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "4.8 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 03:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "20% OFF",
+                          "subHeader": "ABOVE ₹1199",
+                          "discountTag": "FLAT DEAL"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "5.0",
+                            "ratingCount": "3"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/frozen-bottle-milkshakes-desserts-and-ice-cream-2nd-stage-banashankari-rest33008",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "502855",
+                        "name": "Biryani Trip - Destination Hyderabad",
+                        "cloudinaryImageId": "bbsdgaytmeoldkugx9f3",
+                        "locality": "Hare Krishna Road",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹180 for two",
+                        "cuisines": ["Fast Food", "Snacks"],
+                        "avgRating": 4.2,
+                        "parentId": "441462",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "68",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "options available",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹299"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/biryani-trip-destination-hyderabad-hare-krishna-road-seshadripuram-rest502855",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "469048",
+                        "name": "DonBuri",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/9e73364b-8878-41cf-92e9-84641a376188_469048.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": [
+                          "Chinese",
+                          "Oriental",
+                          "Asian",
+                          "Fast Food",
+                          "Desserts"
+                        ],
+                        "avgRating": 3.7,
+                        "parentId": "281645",
+                        "avgRatingString": "3.7",
+                        "totalRatingsString": "82",
+                        "sla": {
+                          "deliveryTime": 37,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "EVERY ITEM",
+                          "subHeader": "@ ₹129"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/donburi-aga-abdullah-street-richmond-town-rest469048",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "47507",
+                        "name": "Bombay Kulfi",
+                        "cloudinaryImageId": "7ae268e777acd1b70bd03b128820fb45",
+                        "locality": "Sudhamnagar",
+                        "areaName": "AUSTIN TOWN",
+                        "costForTwo": "₹100 for two",
+                        "cuisines": ["Desserts", "Ice Cream"],
+                        "avgRating": 4.5,
+                        "veg": true,
+                        "parentId": "4900",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "2.2K+",
+                        "sla": {
+                          "deliveryTime": 23,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:30:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "20% OFF",
+                          "subHeader": "UPTO ₹50"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/bombay-kulfi-sudhamnagar-austin-town-rest47507",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "707957",
+                        "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                        "cloudinaryImageId": "d679c532ca07a6f3fd6d89d603861412",
+                        "locality": "Hampi nagar",
+                        "areaName": "vijayanagar",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": [
+                          "Ice Cream Cakes",
+                          "Desserts",
+                          "Ice Cream",
+                          "Bakery"
+                        ],
+                        "avgRating": 4.6,
+                        "veg": true,
+                        "parentId": "21932",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "8",
+                        "sla": {
+                          "deliveryTime": 23,
+                          "lastMileTravel": 4.9,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "20-25 mins",
+                          "lastMileTravelString": "4.9 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "₹75 OFF",
+                          "subHeader": "ABOVE ₹499",
+                          "discountTag": "FLAT DEAL"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/gourmet-ice-cream-cakes-by-baskin-robbins-hampi-nagar-vijayanagar-rest707957",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "901998",
+                        "name": "Iceberg Organic Icecreams",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/00bcd9a3-b22e-442d-a7eb-c633d0518fa5_901998.jpg",
+                        "locality": "Marenahalli Rd",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Ice Cream"],
+                        "avgRating": 4.4,
+                        "veg": true,
+                        "parentId": "10825",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "7",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 5.6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.6 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹239"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/iceberg-organic-icecreams-marenahalli-rd-jayanagar-rest901998",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "792357",
+                        "name": "Wendy's Flavor Fresh Burgers",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/64958dd3-3535-48dc-b9a1-2e49c38e6a01_792357.jpg",
+                        "locality": "Residency Road",
+                        "areaName": "Shantinagar",
+                        "costForTwo": "₹500 for two",
+                        "cuisines": [
+                          "Burgers",
+                          "American",
+                          "Fast Food",
+                          "Snacks",
+                          "Beverages"
+                        ],
+                        "avgRating": 4.5,
+                        "parentId": "470493",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "26",
+                        "sla": {
+                          "deliveryTime": 40,
+                          "lastMileTravel": 3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "40-45 mins",
+                          "lastMileTravelString": "3.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "30% OFF",
+                          "subHeader": "UPTO ₹75"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/wendys-flavor-fresh-burgers-residency-road-shantinagar-rest792357",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "894026",
+                        "name": "Wow! Kulfi",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/26/c2696a59-217f-4c3a-b3d9-1dcef4872ab3_894026.jpg",
+                        "locality": "Mahatma Gandhi Rd",
+                        "areaName": "Church street",
+                        "costForTwo": "₹120 for two",
+                        "cuisines": ["Ice Cream", "Desserts"],
+                        "avgRating": 3.4,
+                        "veg": true,
+                        "parentId": "501088",
+                        "avgRatingString": "3.4",
+                        "totalRatingsString": "3",
+                        "sla": {
+                          "deliveryTime": 38,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 02:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹59"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "isNewlyOnboarded": true,
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/wow-kulfi-mahatma-gandhi-rd-church-street-rest894026",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "824410",
+                        "name": "Amore Gelato - Italian Ice Cream",
+                        "cloudinaryImageId": "3467b56a3428dcfa585df800fa719412",
+                        "locality": "Jayanagar",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": ["Ice Cream"],
+                        "avgRating": 4.3,
+                        "parentId": "430495",
+                        "avgRatingString": "4.3",
+                        "totalRatingsString": "34",
+                        "sla": {
+                          "deliveryTime": 27,
+                          "lastMileTravel": 6.3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "6.3 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "10% OFF",
+                          "subHeader": "UPTO ₹100"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/amore-gelato-italian-ice-cream-jayanagar-rest824410",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "155588",
+                        "name": "Slurpy Shakes",
+                        "cloudinaryImageId": "aclwvylwtt9h8ln8rhd0",
+                        "locality": "8th Block",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": ["Beverages", "Ice Cream", "Desserts"],
+                        "avgRating": 4.4,
+                        "veg": true,
+                        "parentId": "5713",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "330",
+                        "sla": {
+                          "deliveryTime": 32,
+                          "lastMileTravel": 5.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "5.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/slurpy-shakes-8th-block-jayanagar-rest155588",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "173199",
+                        "name": "Burger It Up",
+                        "cloudinaryImageId": "lsbtt2umiwvsg2qtlf1d",
+                        "locality": "8th Block",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": [
+                          "Burgers",
+                          "Beverages",
+                          "Desserts",
+                          "American",
+                          "Cafe"
+                        ],
+                        "avgRating": 4.1,
+                        "parentId": "7864",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "1.8K+",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 05:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "select": true,
+                        "isOpen": true,
+                        "type": "C",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹119"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/burger-it-up-8th-block-jayanagar-rest173199",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "197935",
+                        "name": "Green Cravings",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/90798ae7-272e-48e3-8371-e7603e5d95b7_197935.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹350 for two",
+                        "cuisines": ["Healthy Food", "Grill"],
+                        "avgRating": 4.1,
+                        "parentId": "8660",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "1.8K+",
+                        "sla": {
+                          "deliveryTime": 39,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:59:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "brand",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "brand"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹129"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/green-cravings-aga-abdullah-street-richmond-town-rest197935",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "304580",
+                        "name": "ITC Fabelle Chocolates",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/26/9233d2f5-da02-4477-9ed6-6c2b01afbc43_304580.jpg",
+                        "locality": "Richmond Town",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹600 for two",
+                        "cuisines": ["Bakery", "Desserts"],
+                        "avgRating": 4.4,
+                        "parentId": "11024",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "308",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 4.6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "4.6 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "ITEMS",
+                          "subHeader": "AT ₹999"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.5",
+                            "ratingCount": "345"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/itc-fabelle-chocolates-richmond-town-rest304580",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "758566",
+                        "name": "Cake",
+                        "cloudinaryImageId": "f5207d990ef9245d848d7e258988ca58",
+                        "locality": "S G Palya",
+                        "areaName": "Bhawani nagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Bakery"],
+                        "avgRating": 3.3,
+                        "veg": true,
+                        "parentId": "3862",
+                        "avgRatingString": "3.3",
+                        "totalRatingsString": "182",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 6.5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.5 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/cake-s-g-palya-bhawani-nagar-rest758566",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "425699",
+                        "name": "Cold Stone Creamery",
+                        "cloudinaryImageId": "a97a58c2e292e5ed2a374f390312e2f5",
+                        "locality": "Global Mall",
+                        "areaName": "Binnipete",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": ["Ice Cream", "Desserts", "Beverages"],
+                        "avgRating": 4.2,
+                        "parentId": "3497",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "134",
+                        "sla": {
+                          "deliveryTime": 52,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "50-55 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "aggregatedDiscountInfoV3": {
+                          "header": "40% OFF",
+                          "subHeader": "UPTO ₹80"
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.3",
+                            "ratingCount": "165"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/cold-stone-creamery-global-mall-binnipete-rest425699",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    }
+                  ],
+                  "theme": "SeoRestaurantListingGridWidget"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "nextFetch": 3
+    },
+    "jid": "hts072b1-1f6c-4b5a-80b9-ef720ef1d9a7"
+  },
+  "statusCode": 0
+}

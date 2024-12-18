@@ -1,0 +1,2826 @@
+{
+  "data": {
+    "tid": "55e4aed7-8570-467b-a964-ff9fca36a3a8",
+    "sid": "htx730c4-ba14-4d70-8ebc-db461c9ef971",
+    "deviceId": "c99bbd2e-6183-01d6-8193-f0b01942c87a",
+    "requestId": "d8eea23d-8f2b-4174-ba24-74bb5013d333",
+    "apiTime": "2024-12-16T17:16:47.704062662Z",
+    "success": {
+      "statusMessage": "done successfully",
+      "pageOffset": {
+        "nextOffset": "CJY7ELQ4KIDYq62TwpjBOTDSEDgE",
+        "widgetOffset": {
+          "NewListingView_category_bar_chicletranking_TwoRows": "",
+          "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+          "Restaurant_Group_WebView_PB_Theme": "",
+          "Restaurant_Group_WebView_SEO_PB_Theme": "",
+          "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "311",
+          "inlineFacetFilter": "",
+          "restaurantCountWidget": ""
+        }
+      },
+      "cards": [
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+              "layout": {
+                "columns": 2
+              },
+              "id": "restaurant_grid_listing",
+              "gridElements": {
+                "infoWithStyle": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                  "restaurants": [
+                    {
+                      "info": {
+                        "id": "966180",
+                        "name": "Suchali's Artisan Bakehouse",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/30/a170e07b-ec69-4c62-9bca-97afd46a1a62_966180.jpg",
+                        "locality": "ittal Mallaya Road",
+                        "areaName": "Central Bangalore",
+                        "costForTwo": "₹600 for two",
+                        "cuisines": ["Snacks", "Cafe"],
+                        "avgRating": 4.4,
+                        "parentId": "196351",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "5",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 4.4,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.4 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "15% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "15% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "isNewlyOnboarded": true,
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/suchalis-artisan-bakehouse-ittal-mallaya-road-central-bangalore-rest966180",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "841248",
+                        "name": "KOLKATA FAMOUS KATI ROLL",
+                        "cloudinaryImageId": "7a32a44ec6b6c100f9a51f533ee9b885",
+                        "locality": "Kanakapura Rd",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Fast Food"],
+                        "parentId": "3550",
+                        "avgRatingString": "--",
+                        "sla": {
+                          "deliveryTime": 28,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png",
+                              "description": "Delivery!"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/kolkata-famous-kati-roll-kanakapura-rd-jayanagar-rest841248",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "210945",
+                        "name": "Royal Restaurant",
+                        "cloudinaryImageId": "yicweopn4lzcjlqy4jvq",
+                        "locality": "Shivaji Nagar",
+                        "areaName": "Central Bangalore",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Chinese", "Tandoor"],
+                        "avgRating": 4.1,
+                        "parentId": "2896",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "10K+",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-23 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "30% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "30% off",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "3.7",
+                            "ratingCount": "954"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/royal-restaurant-shivaji-nagar-central-bangalore-rest210945",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "518369",
+                        "name": "Madras Meal Company",
+                        "cloudinaryImageId": "bqy6rjw55ctn04drgtt2",
+                        "locality": "Majestic",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹350 for two",
+                        "cuisines": ["South Indian"],
+                        "avgRating": 4.6,
+                        "parentId": "128893",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "123",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "20% off up to ₹50 | Use code TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/madras-meal-company-majestic-seshadripuram-rest518369",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "409923",
+                        "name": "Kaati Zone Rolls & Wraps",
+                        "cloudinaryImageId": "cv0ebvdyhlxscaz5czpe",
+                        "locality": "Millars Road",
+                        "areaName": "Vasanth Nagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": [
+                          "Fast Food",
+                          "Bengali",
+                          "Beverages",
+                          "Desserts",
+                          "Rolls"
+                        ],
+                        "avgRating": 3.7,
+                        "parentId": "248306",
+                        "avgRatingString": "3.7",
+                        "totalRatingsString": "644",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-23 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "options available",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "15% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "15% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/kaati-zone-rolls-and-wraps-millars-road-vasanth-nagar-rest409923",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "305776",
+                        "name": "Asia Kitchen by Mainland China",
+                        "cloudinaryImageId": "b6808f1791a59ab9495bc76af5f40722",
+                        "locality": "State Pollution Board",
+                        "areaName": "Church Street",
+                        "costForTwo": "₹850 for two",
+                        "cuisines": ["Asian", "Chinese", "Oriental"],
+                        "avgRating": 4.6,
+                        "parentId": "1831",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "591",
+                        "sla": {
+                          "deliveryTime": 46,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "45-50 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "60% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGYIT",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "60% off up to ₹120 | Use code SWIGGYIT",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.1",
+                            "ratingCount": "2.7K+"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/asia-kitchen-by-mainland-china-state-pollution-board-church-street-rest305776",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "464835",
+                        "name": "Bowl Soul",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/6637edd9-41be-44ad-a465-65a15cda5606_464835.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": [
+                          "Indian",
+                          "Asian",
+                          "Continental",
+                          "Pan-Asian",
+                          "Chinese",
+                          "Mediterranean",
+                          "Mexican",
+                          "Lebanese",
+                          "Korean",
+                          "Japanese"
+                        ],
+                        "avgRating": 4.2,
+                        "parentId": "280646",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "617",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "50% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/bowl-soul-aga-abdullah-street-richmond-town-rest464835",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "904303",
+                        "name": "Boba Bar by Frozen Bottle",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/7/0c1b3c65-ae33-43ad-9f73-3c78024293d3_904303.jpg",
+                        "locality": "2nd Stage",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Bubble Tea", "Beverages", "Ice Cream"],
+                        "avgRating": 4.1,
+                        "veg": true,
+                        "parentId": "525698",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "16",
+                        "sla": {
+                          "deliveryTime": 27,
+                          "lastMileTravel": 4.9,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.9 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 03:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Buy 1 Get 1 Free",
+                              "discountType": "BXGY",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "Buy 1, Get 1 Free | Use BOGO",
+                              "discountType": "BXGY",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/boba-bar-by-frozen-bottle-2nd-stage-banashankari-rest904303",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "374056",
+                        "name": "Food Junction",
+                        "cloudinaryImageId": "k6jid9r8rh8febmwo7lh",
+                        "locality": "1st  Stage",
+                        "areaName": "BTM Layout",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Indian", "Chinese", "Biryani"],
+                        "avgRating": 4.5,
+                        "parentId": "10867",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "317",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/food-junction-1st-stage-btm-layout-rest374056",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "841088",
+                        "name": "Ghar ki rasoi",
+                        "cloudinaryImageId": "e0d69c740c6279ca0f60c7c3b3152e72",
+                        "locality": " Shamana Nagar",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹320 for two",
+                        "cuisines": [
+                          "Chinese",
+                          "Biryani",
+                          "Punjabi",
+                          "Chaat",
+                          "Kebabs"
+                        ],
+                        "parentId": "10211",
+                        "avgRatingString": "--",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 4.3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.3 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/ghar-ki-rasoi-shamana-nagar-banashankari-rest841088",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "709590",
+                        "name": "Rolling Fresh",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/7/eb6acf3a-c601-4d8d-a713-082625a2249a_709590.jpg",
+                        "locality": "BTM Layout",
+                        "areaName": "Koramangala",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Rolls & Wraps", "Fast Food", "Beverages"],
+                        "avgRating": 4.3,
+                        "parentId": "386931",
+                        "avgRatingString": "4.3",
+                        "totalRatingsString": "967",
+                        "sla": {
+                          "deliveryTime": 35,
+                          "lastMileTravel": 7.1,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "7.1 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 09:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "20% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/rolling-fresh-btm-layout-koramangala-rest709590",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "137444",
+                        "name": "Ande ka funda",
+                        "cloudinaryImageId": "uxlrdkibgt4lmmtlms3w",
+                        "locality": "Sarakki Main Road",
+                        "areaName": "JP Nagar",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["North Indian", "Chinese"],
+                        "avgRating": 4,
+                        "parentId": "15677",
+                        "avgRatingString": "4.0",
+                        "totalRatingsString": "1.0K+",
+                        "sla": {
+                          "deliveryTime": 34,
+                          "lastMileTravel": 6.4,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.4 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/ande-ka-funda-sarakki-main-road-jp-nagar-rest137444",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "577696",
+                        "name": "Myfroyoland - Premium Frozen Yogurt",
+                        "cloudinaryImageId": "66ba31eba5e7f1a457fb460d07306c11",
+                        "locality": "Nehru Nagar",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹500 for two",
+                        "cuisines": ["Desserts", "Ice Cream", "Healthy Food"],
+                        "avgRating": 4.7,
+                        "veg": true,
+                        "parentId": "442929",
+                        "avgRatingString": "4.7",
+                        "totalRatingsString": "159",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 4.1,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.1 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "10% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "10% off up to ₹40 | Use code TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/myfroyoland-premium-frozen-yogurt-nehru-nagar-seshadripuram-rest577696",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "247510",
+                        "name": "Delights by INOX",
+                        "cloudinaryImageId": "b857fcf611707fedd3773eb02688f925",
+                        "locality": "Mantri Square Mall",
+                        "areaName": "Malleshwaram",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Snacks"],
+                        "avgRating": 3.5,
+                        "parentId": "385095",
+                        "avgRatingString": "3.5",
+                        "totalRatingsString": "135",
+                        "sla": {
+                          "deliveryTime": 47,
+                          "lastMileTravel": 4.2,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "45-50 mins",
+                          "lastMileTravelString": "4.2 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "50% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/delights-by-inox-mantri-square-mall-malleshwaram-rest247510",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "info": {
+                        "id": "215958",
+                        "name": "Dumont Creamery",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/18/5797312b-0eba-4f88-bb8b-9ea4162043d5_215958.jpg",
+                        "locality": "Church Street",
+                        "areaName": "Church Street",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Ice Cream", "Beverages", "Desserts"],
+                        "avgRating": 4.6,
+                        "veg": true,
+                        "parentId": "235011",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "656",
+                        "sla": {
+                          "deliveryTime": 30,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:55:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "10% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "10% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.3",
+                            "ratingCount": "230"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/dumont-creamery-church-street-rest215958",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    }
+                  ],
+                  "theme": "SeoRestaurantListingGridWidget"
+                }
+              }
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+              "layout": {
+                "columns": 2
+              },
+              "id": "restaurant_grid_listing_v2",
+              "gridElements": {
+                "infoWithStyle": {
+                  "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FoodRestaurantGridListingInfo",
+                  "restaurants": [
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "966180",
+                        "name": "Suchali's Artisan Bakehouse",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/30/a170e07b-ec69-4c62-9bca-97afd46a1a62_966180.jpg",
+                        "locality": "ittal Mallaya Road",
+                        "areaName": "Central Bangalore",
+                        "costForTwo": "₹600 for two",
+                        "cuisines": ["Snacks", "Cafe"],
+                        "avgRating": 4.4,
+                        "parentId": "196351",
+                        "avgRatingString": "4.4",
+                        "totalRatingsString": "5",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 4.4,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "4.4 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "15% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "15% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "isNewlyOnboarded": true,
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/suchalis-artisan-bakehouse-ittal-mallaya-road-central-bangalore-rest966180",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "841248",
+                        "name": "KOLKATA FAMOUS KATI ROLL",
+                        "cloudinaryImageId": "7a32a44ec6b6c100f9a51f533ee9b885",
+                        "locality": "Kanakapura Rd",
+                        "areaName": "Jayanagar",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Fast Food"],
+                        "parentId": "3550",
+                        "avgRatingString": "--",
+                        "sla": {
+                          "deliveryTime": 28,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png",
+                              "description": "Delivery!"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/kolkata-famous-kati-roll-kanakapura-rd-jayanagar-rest841248",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "210945",
+                        "name": "Royal Restaurant",
+                        "cloudinaryImageId": "yicweopn4lzcjlqy4jvq",
+                        "locality": "Shivaji Nagar",
+                        "areaName": "Central Bangalore",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Chinese", "Tandoor"],
+                        "avgRating": 4.1,
+                        "parentId": "2896",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "10K+",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-23 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "30% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "30% off",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "3.7",
+                            "ratingCount": "954"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/royal-restaurant-shivaji-nagar-central-bangalore-rest210945",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "518369",
+                        "name": "Madras Meal Company",
+                        "cloudinaryImageId": "bqy6rjw55ctn04drgtt2",
+                        "locality": "Majestic",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹350 for two",
+                        "cuisines": ["South Indian"],
+                        "avgRating": 4.6,
+                        "parentId": "128893",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "123",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "20% off up to ₹50 | Use code TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/madras-meal-company-majestic-seshadripuram-rest518369",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "409923",
+                        "name": "Kaati Zone Rolls & Wraps",
+                        "cloudinaryImageId": "cv0ebvdyhlxscaz5czpe",
+                        "locality": "Millars Road",
+                        "areaName": "Vasanth Nagar",
+                        "costForTwo": "₹150 for two",
+                        "cuisines": [
+                          "Fast Food",
+                          "Bengali",
+                          "Beverages",
+                          "Desserts",
+                          "Rolls"
+                        ],
+                        "avgRating": 3.7,
+                        "parentId": "248306",
+                        "avgRatingString": "3.7",
+                        "totalRatingsString": "644",
+                        "sla": {
+                          "deliveryTime": 36,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "35-40 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-23 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "textExtendedBadges": [
+                            {
+                              "iconId": "guiltfree/GF_Logo_android_3x",
+                              "shortDescription": "options available",
+                              "fontColor": "#7E808C"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "15% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "15% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/kaati-zone-rolls-and-wraps-millars-road-vasanth-nagar-rest409923",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "305776",
+                        "name": "Asia Kitchen by Mainland China",
+                        "cloudinaryImageId": "b6808f1791a59ab9495bc76af5f40722",
+                        "locality": "State Pollution Board",
+                        "areaName": "Church Street",
+                        "costForTwo": "₹850 for two",
+                        "cuisines": ["Asian", "Chinese", "Oriental"],
+                        "avgRating": 4.6,
+                        "parentId": "1831",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "591",
+                        "sla": {
+                          "deliveryTime": 46,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "45-50 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "60% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGYIT",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "60% off up to ₹120 | Use code SWIGGYIT",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.1",
+                            "ratingCount": "2.7K+"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/asia-kitchen-by-mainland-china-state-pollution-board-church-street-rest305776",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "464835",
+                        "name": "Bowl Soul",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/12/6637edd9-41be-44ad-a465-65a15cda5606_464835.JPG",
+                        "locality": "AGA abdullah Street",
+                        "areaName": "Richmond Town",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": [
+                          "Indian",
+                          "Asian",
+                          "Continental",
+                          "Pan-Asian",
+                          "Chinese",
+                          "Mediterranean",
+                          "Mexican",
+                          "Lebanese",
+                          "Korean",
+                          "Japanese"
+                        ],
+                        "avgRating": 4.2,
+                        "parentId": "280646",
+                        "avgRatingString": "4.2",
+                        "totalRatingsString": "617",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 4.7,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "4.7 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "50% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/bowl-soul-aga-abdullah-street-richmond-town-rest464835",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "904303",
+                        "name": "Boba Bar by Frozen Bottle",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/7/0c1b3c65-ae33-43ad-9f73-3c78024293d3_904303.jpg",
+                        "locality": "2nd Stage",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Bubble Tea", "Beverages", "Ice Cream"],
+                        "avgRating": 4.1,
+                        "veg": true,
+                        "parentId": "525698",
+                        "avgRatingString": "4.1",
+                        "totalRatingsString": "16",
+                        "sla": {
+                          "deliveryTime": 27,
+                          "lastMileTravel": 4.9,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.9 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 03:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Buy 1 Get 1 Free",
+                              "discountType": "BXGY",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "Buy 1, Get 1 Free | Use BOGO",
+                              "discountType": "BXGY",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/boba-bar-by-frozen-bottle-2nd-stage-banashankari-rest904303",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "374056",
+                        "name": "Food Junction",
+                        "cloudinaryImageId": "k6jid9r8rh8febmwo7lh",
+                        "locality": "1st  Stage",
+                        "areaName": "BTM Layout",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Indian", "Chinese", "Biryani"],
+                        "avgRating": 4.5,
+                        "parentId": "10867",
+                        "avgRatingString": "4.5",
+                        "totalRatingsString": "317",
+                        "sla": {
+                          "deliveryTime": 33,
+                          "lastMileTravel": 6,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/food-junction-1st-stage-btm-layout-rest374056",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "841088",
+                        "name": "Ghar ki rasoi",
+                        "cloudinaryImageId": "e0d69c740c6279ca0f60c7c3b3152e72",
+                        "locality": " Shamana Nagar",
+                        "areaName": "Banashankari",
+                        "costForTwo": "₹320 for two",
+                        "cuisines": [
+                          "Chinese",
+                          "Biryani",
+                          "Punjabi",
+                          "Chaat",
+                          "Kebabs"
+                        ],
+                        "parentId": "10211",
+                        "avgRatingString": "--",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 4.3,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.3 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/ghar-ki-rasoi-shamana-nagar-banashankari-rest841088",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "709590",
+                        "name": "Rolling Fresh",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/7/eb6acf3a-c601-4d8d-a713-082625a2249a_709590.jpg",
+                        "locality": "BTM Layout",
+                        "areaName": "Koramangala",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Rolls & Wraps", "Fast Food", "Beverages"],
+                        "avgRating": 4.3,
+                        "parentId": "386931",
+                        "avgRatingString": "4.3",
+                        "totalRatingsString": "967",
+                        "sla": {
+                          "deliveryTime": 35,
+                          "lastMileTravel": 7.1,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "7.1 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 09:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "20% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "20% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/rolling-fresh-btm-layout-koramangala-rest709590",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "137444",
+                        "name": "Ande ka funda",
+                        "cloudinaryImageId": "uxlrdkibgt4lmmtlms3w",
+                        "locality": "Sarakki Main Road",
+                        "areaName": "JP Nagar",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["North Indian", "Chinese"],
+                        "avgRating": 4,
+                        "parentId": "15677",
+                        "avgRatingString": "4.0",
+                        "totalRatingsString": "1.0K+",
+                        "sla": {
+                          "deliveryTime": 34,
+                          "lastMileTravel": 6.4,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "30-35 mins",
+                          "lastMileTravelString": "6.4 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {},
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/ande-ka-funda-sarakki-main-road-jp-nagar-rest137444",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "577696",
+                        "name": "Myfroyoland - Premium Frozen Yogurt",
+                        "cloudinaryImageId": "66ba31eba5e7f1a457fb460d07306c11",
+                        "locality": "Nehru Nagar",
+                        "areaName": "Seshadripuram",
+                        "costForTwo": "₹500 for two",
+                        "cuisines": ["Desserts", "Ice Cream", "Healthy Food"],
+                        "avgRating": 4.7,
+                        "veg": true,
+                        "parentId": "442929",
+                        "avgRatingString": "4.7",
+                        "totalRatingsString": "159",
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 4.1,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "4.1 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "newg.png",
+                              "description": "Gourmet"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "10% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "10% off up to ₹40 | Use code TRYNEW",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/myfroyoland-premium-frozen-yogurt-nehru-nagar-seshadripuram-rest577696",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "247510",
+                        "name": "Delights by INOX",
+                        "cloudinaryImageId": "b857fcf611707fedd3773eb02688f925",
+                        "locality": "Mantri Square Mall",
+                        "areaName": "Malleshwaram",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Snacks"],
+                        "avgRating": 3.5,
+                        "parentId": "385095",
+                        "avgRatingString": "3.5",
+                        "totalRatingsString": "135",
+                        "sla": {
+                          "deliveryTime": 47,
+                          "lastMileTravel": 4.2,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "45-50 mins",
+                          "lastMileTravelString": "4.2 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-16 23:00:00",
+                          "opened": true
+                        },
+                        "badges": {
+                          "imageBadges": [
+                            {
+                              "imageId": "v1695133679/badges/Pure_Veg111.png",
+                              "description": "pureveg"
+                            }
+                          ]
+                        },
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "50% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {
+                              "badgeObject": [
+                                {
+                                  "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                  }
+                                }
+                              ]
+                            },
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "--"
+                          }
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/delights-by-inox-mantri-square-mall-malleshwaram-rest247510",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    },
+                    {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                      "info": {
+                        "id": "215958",
+                        "name": "Dumont Creamery",
+                        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/18/5797312b-0eba-4f88-bb8b-9ea4162043d5_215958.jpg",
+                        "locality": "Church Street",
+                        "areaName": "Church Street",
+                        "costForTwo": "₹250 for two",
+                        "cuisines": ["Ice Cream", "Beverages", "Desserts"],
+                        "avgRating": 4.6,
+                        "veg": true,
+                        "parentId": "235011",
+                        "avgRatingString": "4.6",
+                        "totalRatingsString": "656",
+                        "sla": {
+                          "deliveryTime": 30,
+                          "lastMileTravel": 5,
+                          "serviceability": "SERVICEABLE",
+                          "slaString": "25-30 mins",
+                          "lastMileTravelString": "5.0 km",
+                          "iconType": "ICON_TYPE_EMPTY"
+                        },
+                        "availability": {
+                          "nextCloseTime": "2024-12-17 00:55:00",
+                          "opened": true
+                        },
+                        "badges": {},
+                        "isOpen": true,
+                        "aggregatedDiscountInfoV2": {
+                          "header": "10% OFF",
+                          "shortDescriptionList": [
+                            {
+                              "meta": "Use PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ],
+                          "descriptionList": [
+                            {
+                              "meta": "10% off | Use code PARTY",
+                              "discountType": "Percentage",
+                              "operationType": "RESTAURANT"
+                            }
+                          ]
+                        },
+                        "type": "F",
+                        "badgesV2": {
+                          "entityBadges": {
+                            "imageBased": {},
+                            "textBased": {},
+                            "textExtendedBadges": {}
+                          }
+                        },
+                        "orderabilityCommunication": {
+                          "title": {},
+                          "subTitle": {},
+                          "message": {},
+                          "customIcon": {}
+                        },
+                        "differentiatedUi": {
+                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          "differentiatedUiMediaDetails": {
+                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                            "lottie": {},
+                            "video": {}
+                          }
+                        },
+                        "reviewsSummary": {},
+                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        "restaurantOfferPresentationInfo": {},
+                        "externalRatings": {
+                          "aggregatedRating": {
+                            "rating": "4.3",
+                            "ratingCount": "230"
+                          },
+                          "source": "GOOGLE",
+                          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                        },
+                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                      },
+                      "analytics": {
+                        "context": "seo-data-2572ecb3-02cd-4320-8ca7-f5cb8f77be29"
+                      },
+                      "cta": {
+                        "link": "https://www.swiggy.com/city/bangalore/dumont-creamery-church-street-rest215958",
+                        "text": "RESTAURANT_MENU",
+                        "type": "WEBLINK"
+                      },
+                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    }
+                  ],
+                  "theme": "SeoRestaurantListingGridWidget"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "nextFetch": 3
+    },
+    "jid": "hts072b1-1f6c-4b5a-80b9-ef720ef1d9a7"
+  },
+  "statusCode": 0
+}

@@ -20,7 +20,7 @@ This server didn't contain all swiggy data only has two api data. it's enough fo
 
 - we can take aproximately 25 x 8 = 200 restaurant name in this api by pages.
 
-- but only one restuaran menu i have restaurant menu is very big
+- but only one restuaran menu i have restaurant menu file is very big use that thing for all of your file Why Not.
 
 i use [https://minify-js.com/](https://minify-js.com/) to minify the object file and put .prettireignore for that file
 
@@ -32,6 +32,43 @@ Here we go again like GTA San Andreas 😂.
 
 ## clone this Repository
 
+Open new emty folder in your vs code run this command on terminal
+
 ```bash
-  git clone "https://github.com/"
+  git clone "https://github.com/Praveen-BE/Tasty-Server.git"
 ```
+
+navigate to project
+
+```bash
+  cd Tasty-Server
+```
+
+install dependencies
+
+```bash
+  npm install
+```
+
+for one time run (node index.js)
+
+```bash
+  npm run start
+```
+
+whenever you save and re-run (nodemon index.js)
+
+```bash
+  npm run dev
+```
+
+## localhost and cors
+
+Go to the index.js
+
+- You can change your backend port as you wish
+- if your frontend url or port in diffent change in index.js for bypass cors
+
+## NoSql database
+
+- if you are familier with nosql database see folder "/jsonFiles" i put all json files here.
