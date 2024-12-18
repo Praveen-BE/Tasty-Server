@@ -23,7 +23,7 @@ This server didn't contain all swiggy data only has two api data. it's enough fo
 
 - we can take aproximately 25 x 8 = 200 restaurant name in this api by pages.
 
-- but only one restuaran menu i have restaurant menu file is very big use that thing for all of your file Why Not.
+- but only one restuarant menu i have, restaurant menu file is very big, use that thing for all of your restaurant !!!!!! Why Not.
 
 i use [https://minify-js.com/](https://minify-js.com/) to minify the object file and put .prettireignore for that file
 
@@ -101,3 +101,9 @@ Because the json file is too large likely 13MB, i compressed and put in /minifie
 ## conclusion
 
 Ok I tested it with my three month old swiggy app it works perfectly fine.
+
+I saw In linkedin some people use backend cors to bypass Swiggy api like Chetan Nada's [foodfire-Server](https://github.com/chetannada/FoodFire-Server).
+
+But it did't work in my system. Try that method it didn't work use this repository Complete the project to Understand the Concept.
+
+### All the best 👍.
